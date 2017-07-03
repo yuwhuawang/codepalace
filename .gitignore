@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+.Python
+.gitignore
+.idea/.name
+.idea/codepalace.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+bin/
+imgs/
+include/
+lib/
+pip-selfcheck.json
+tmp/
